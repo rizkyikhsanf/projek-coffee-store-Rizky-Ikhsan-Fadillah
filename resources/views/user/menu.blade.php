@@ -5,7 +5,7 @@
                 <h1 class="font-bold text-3xl text-primary lg:text-5xl">Menu</h1>
                 <h3 class="text-md mb-4 text-text pt-4 lg:text-xl">
                     Cicipi kelezatan makanan dan minuman yang dibuat oleh a little
-                    <span class="text-primary font-semibold text-xl">cinta!!</span>
+                    <span class="text-primary font-semibold text-xl">cinta banget!!</span>
                 </h3>
 
                 <!-- Grid dengan 2 kolom pada layar lebih besar -->
